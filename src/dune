@@ -1,0 +1,4 @@
+(library
+ (name dunesweeper)
+ (public_name Dunesweeper)
+ (libraries ANSITerminal))
